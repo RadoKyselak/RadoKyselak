@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RadoKyselak
-- 👀 I’m interested in artificial inteligence and its global impact
+- 👀 I’m interested in artificial inteligence and neuromorphic computing
 - 🌱 I’m currently learning html/css and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

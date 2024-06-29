@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![visitor badge]([https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors](https://github.com/RadoKyselak))
+[![visitor badge]([https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors](https://github.com/RadoKyselak))](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
 <!---
 RadoKyselak/RadoKyselak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

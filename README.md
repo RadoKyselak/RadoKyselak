@@ -1,4 +1,6 @@
-<img src="https://github.com/RadoKyselak/RadoKyselak/assets/142341444/33f3527e-7606-41f3-b785-befad6d2c392" style="display: block; margin-left: auto; margin-right: auto; max-width: 100%; height: auto;">
+<div align="center">
+    <img src="https://github.com/RadoKyselak/RadoKyselak/assets/142341444/33f3527e-7606-41f3-b785-befad6d2c392" style="max-width: 100%; height: auto;">
+</div>
 
 <h2 align="center">
     About Me

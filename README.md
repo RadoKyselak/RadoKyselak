@@ -5,8 +5,9 @@
 <h2 align="center">
     About Me
 </h2>
-
-📈 Stats
+<h3>
+    📈 Stats
+</h3>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=radokyselak&theme=tokyonight" alt="mystreak"/>
 </div>
@@ -17,8 +18,10 @@
 <div align="center">
     <img src="https://myreadme.vercel.app/api/embed/radokyselak?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </div>
-<br>
-💻 Languages and Tools:
+
+<h3>
+    💻 Languages and Tools:
+</h3>
 
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)

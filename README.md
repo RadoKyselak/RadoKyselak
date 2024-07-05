@@ -26,6 +26,8 @@
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <p>Serverside:</p>
 
+ 
+
 ![Vercel Badge](https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 <p>Browser:</p>
 

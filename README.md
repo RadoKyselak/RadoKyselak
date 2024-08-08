@@ -12,7 +12,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=radokyselak&theme=tokyonight" alt="mystreak"/>
 </div>
 
-![Profile Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=radokyselak.radokyselak)
+![Profile View Count](https://visitor-badge.laobi.icu/badge?page_id=radokyselak.radokyselak)
 
 <h3>
     💻 Languages and Tools:
